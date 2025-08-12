@@ -484,6 +484,7 @@ h6 {
 }
 
 @media (width < 900px) {
+  
   .def-fz-700 {
     font-size: 1.75rem;
   }
